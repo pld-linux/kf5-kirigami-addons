@@ -17,7 +17,7 @@ Release:	2
 License:	GPL v2+/LGPL v2.1+
 Group:		X11/Libraries
 Source0:	https://download.kde.org/stable/kirigami-addons/%{kfname}-%{version}.tar.xz
-# Source0-md5:	27d23279ee0ad5252a862c2671bc05ad
+# Source0-md5:	dfb9ba7a8f57c96d9bc1237399829bd3
 URL:		https://kde.org/
 BuildRequires:	Qt5Core-devel >= %{qtver}
 BuildRequires:	Qt5Gui-devel >= %{qtver}
